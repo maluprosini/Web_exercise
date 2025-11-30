@@ -1,2 +1,3 @@
-# Web_exercise
+# Web Exercises
+
 Web development exercises
